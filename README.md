@@ -6,6 +6,11 @@ You can see it work on youtube:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QFhJlYCRJ94/0.jpg)](http://www.youtube.com/watch?v=QFhJlYCRJ94)
 
+
+The Architecture:
+![alt text](https://github.com/IOT-Camera-Guard/Server/blob/master/%E2%80%8F%E2%80%8F%D7%9C%D7%9B%D7%99%D7%93%D7%94.PNG "architecture")
+
+
 ## Google Cloud IoT Examples
 In here there are scripts that allow full bi-directional communication between an IoT device and a server through Google Cloud brokering.
 
